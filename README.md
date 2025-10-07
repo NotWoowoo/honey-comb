@@ -6,7 +6,7 @@ Modulate the delay time to hear a very weird effect that I can only think to des
 
 Honey_comb can function as a standard delay or as a comb filter, but it's probably most interesting as a sound design tool.
 
-**Important:** Yes, it's called *honey_comb* (with the underscore, all lowercase), because apparently there's already a plugin called *honeycomb*. Hopefully this differentiates the names enough to avoid chaos.
+**Important:** Yes, it's called *honey_comb* (with the underscore, all lowercase), because apparently there's already a plugin called *Honeycomb*. Hopefully this differentiates the names enough to avoid chaos.
 
 ## Download
 
