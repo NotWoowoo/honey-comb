@@ -8,6 +8,8 @@ Honey_comb can function as a standard delay or as a comb filter, but it's probab
 
 **Important:** Yes, it's called *honey_comb* (with the underscore, all lowercase), because apparently there's already a plugin called *Honeycomb*. Hopefully this differentiates the names enough to avoid chaos.
 
+More info and plugins can be found [on my plugin site.](https://notwoowoo.github.io/plugins/)
+
 ## Download
 
 - Go to the latest [release](https://github.com/NotWoowoo/honey-comb/releases/tag/untagged-3d2498d1aaef974026d8)
